@@ -1,8 +1,12 @@
-### Hi there 👋
 
 <div id="header" align="center">
   <img src="./assests/cyberpunk_sky.gif" width="500"/>
 </div>
+
+---
+
+Hey there I'm Spicy , a 1337/42 student, I'm currently learning C and C++ and I'm interested in low level programming, reverse engineering and Game Dev. I'm also a big fan of the cyberpunk genre and I love to play video games 👾.
+
 
 <!--
 **SpicyI/SpicyI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
