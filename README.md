@@ -5,7 +5,7 @@
 
 ---
 
-Hey there I'm Spicy , a 1337/42 student, I'm currently learning C and C++ and I'm interested in low level programming, reverse engineering and Game Dev. I'm also a big fan of the cyberpunk genre and I love to play video games 👾.
+Greetings, I am Spicy, a cyberpunk enthusiast and aspiring programmer. Currently immersed in the realms of C and C++ 👾, I am captivated by the allure of low-level programming, reverse engineering, and game development. With a deep passion for the cyberpunk genre, I find solace and excitement in virtual worlds while wielding a controller as my weapon of choice 🕹. Let's embark on a journey through neon-lit cityscapes and unravel the mysteries of the digital realm together 🌌.
 
 
 <!--
