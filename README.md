@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="./assests/cyberpunk_sky.gif" width="100"/>
+  <img src="./assests/cyberpunk_sky.gif" width="500"/>
 </div>
 
 <!--
