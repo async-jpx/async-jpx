@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="./assests/cyberpunk_sky.gif" width="500"/>
+  <img src="./assests/cyberpunk_sky.gif" style="max-width: 80%;"/>
 </div>
 
 ---
