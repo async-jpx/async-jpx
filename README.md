@@ -6,7 +6,7 @@
 
 ### **> RUN GREETINGS.EXE**
 
-Salutations, data-stream rider! I'm **Driss (alias: Spicy)**, a Junior Software Engineer transmitting from the neon-drenched circuits of Casablanca. My core programming is wired for full-stack development, where I craft immersive digital realities.
+Salutations, data-stream rider! I'm **Driss (alias: Spicy)**, a Software Engineer transmitting from the neon-drenched circuits of Casablanca. My core programming is wired for full-stack development, where I craft immersive digital realities.
 
 Think of me as a tech-ninja, wielding **Next.js** to sculpt dazzling front-end interfaces that would make a dystopian cityscape proud, and architecting scalable backend data-conduits with the power of **FastAPI**.
 
